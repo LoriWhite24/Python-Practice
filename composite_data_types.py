@@ -1,5 +1,7 @@
-# This program reads in a csv file with data on vehicles.
-
+"""
+    Author: Lori White
+    Purpose: This program reads in a csv file with data on vehicles.
+"""
 # Here is where you import needed modules for your program.
 import csv
 import copy

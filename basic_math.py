@@ -1,3 +1,7 @@
+"""
+    Author: Lori White
+    Purpose: Showing how to use a assignment operators and basic math in python.
+"""
 # Assignment Operators
 myVar = 1
 myVar = myVar + 2

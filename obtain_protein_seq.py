@@ -1,3 +1,11 @@
+"""
+    Author: Lori White
+    Purpose: Reads in the preproinsulin_seq.txt text file then cleans the contents and
+    saves the result to preproinsulin_seq_clean.txt. Afterwards the lsinsulin, ainsulin, 
+    binsulin, and the cinsulin are extracted from the preproinsulin to be saved in the 
+    respective text files lsinsulin_seq_clean.txt, ainsulin_seq_clean.txt, binsulin_seq_clean.txt,
+    and cinsulin_seq_clean.txt.
+"""
 # Reads in the preproinsulin_seq.txt file
 file = open("Data_Files/preproinsulin_seq.txt", "r")
 lines = []

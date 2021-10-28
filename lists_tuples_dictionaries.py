@@ -1,3 +1,7 @@
+"""
+    Author: Lori White
+    Purpose: Showing how to use lists, tuples and dictionaries in python.
+"""
 # Lists
 myFruitList = ["apple", "orange", "banana", "cherry", "strawberry"]
 print(myFruitList)

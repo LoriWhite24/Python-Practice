@@ -1,5 +1,6 @@
 """
- Notes on Data Types in Python
+    Author: Lori White
+    Purpose: Showing how to use a data types in python.
 """
 var = 1
 print(var)

@@ -1,12 +1,14 @@
 """
-Class - collection of related functions and variables that act 
-as a template for arranging different sets of data.
-Need two parts:
-1. Declaration - similar to the declaration of a function
-2. Initialization - is function that is within the class and 
-   is responsible for creating new members of it.
-A class can have associated functions and variables that are
-attached to the class and identified as properties of it.
+    Author: Lori White
+    Purpose: Showing how to use classes in python.
+    Notes: Class - collection of related functions and variables that act 
+        as a template for arranging different sets of data.
+        Need two parts:
+            1. Declaration - similar to the declaration of a function
+            2. Initialization - is function that is within the class and 
+                is responsible for creating new members of it.
+        A class can have associated functions and variables that are
+        attached to the class and identified as properties of it.
 """
 # Example of a Class
 # Here is where we defined a fruit

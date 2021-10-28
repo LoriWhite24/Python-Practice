@@ -1,3 +1,7 @@
+"""
+    Author: Lori White
+    Purpose: Showing how to use strings in python.
+"""
 # The String Data Type
 myStr = "This is a String"
 print(myStr, "\n", type(myStr))

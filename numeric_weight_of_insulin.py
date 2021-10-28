@@ -1,3 +1,8 @@
+"""
+    Author: Lori White
+    Purpose: Finds the molecular weight of the insulin stored in the preproinsulin_seq_clean.txt
+    text file and finds the percent error of the insulin's molecular weight.
+"""
 # store the human preproinsulin sequence in a variable called preproinsulin:**
 preproInsulin = open("Data_Files/preproinsulin_seq_clean.txt", "r").read()
 # store the remaining sequence elements of human insulin in variables:
